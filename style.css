@@ -1,4 +1,9 @@
-.tabcab, .tabcel{
+.tabcab{
     border: 1px solid;
     border-color: blue;
+}
+
+.tabcel{
+    border: 1px solid;
+    border-color: red;
 }
